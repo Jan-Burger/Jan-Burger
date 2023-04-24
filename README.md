@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## 🔭 Data Engineering
+
+<a href="https://github.com/Jan-Burger/ETL-Airflow"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jan-Burger&repo=ETL-Airflow" width=400> </a> 
+<a href="https://github.com/locnd-172/Automate-updating-GCal-with-university-timetable"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=locnd-172&repo=Automate-updating-GCal-with-university-timetable" width=400> </a> 
+<a href="https://github.com/locnd-172/fpgrowth-algoirthm"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=locnd-172&repo=fpgrowth-algoirthm" width=400> </a> 
+<a href="https://github.com/locnd-172/blooming-plant-shop"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=locnd-172&repo=blooming-plant-shop" width=400> </a> 
 <!--
 **Jan-Burger/Jan-Burger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
